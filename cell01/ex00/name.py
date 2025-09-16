@@ -1,4 +1,3 @@
 first_name = "Rapeepat"
-last_name = "42"
+last_name = "Jermta"
 print(first_name, last_name)
-
